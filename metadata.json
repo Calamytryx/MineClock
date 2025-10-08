@@ -1,0 +1,23 @@
+
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "calamytymytryx@gmail.com",
+        "Name": "CAL"
+      }
+    ],
+    "BugReportUrl": "",
+    "Category": "Date and Time",
+    "Description": "A Minecraft-style animated clock widget",
+    "EnabledByDefault": true,
+    "Icon": "chronometer",
+    "Id": "mc_clock",
+    "License": "GPL-2.0+",
+    "Name": "MC Clock",
+    "Website": ""
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-Provides": ["org.kde.plasma.clock"]
+}
